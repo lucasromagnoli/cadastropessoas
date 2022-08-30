@@ -1,0 +1,3 @@
+[submodule "cadastropessoas-producer"]
+	path = cadastropessoas-producer
+	url = https://github.com/lucasromagnoli/cadastropessoas_producer
